@@ -2,10 +2,10 @@
   "username": "SnigdhaSasmal2-rgb",
   "display_name": "Snigdha Sasmal",
   "team": "Titans",
-  "total_lines_written": 122,
+  "total_lines_written": 436,
   "total_ai_lines": 0,
-  "dev_lines_written": 122,
-  "test_lines_written": 0,
+  "dev_lines_written": 139,
+  "test_lines_written": 297,
   "history": [
     {
       "date": "2026-06-12",
@@ -16,11 +16,11 @@
     },
     {
       "date": "2026-06-13",
-      "total": 121,
+      "total": 435,
       "ai": 0,
-      "dev": 121,
-      "test": 0
+      "dev": 138,
+      "test": 297
     }
   ],
-  "last_updated": "2026-06-13T13:44:59+05:30"
+  "last_updated": "2026-06-13T21:59:36+05:30"
 }
